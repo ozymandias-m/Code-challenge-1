@@ -18,4 +18,4 @@ function studentGrades(){                                    // function definit
             return "E"
         }
         else{return "invalid"}
-}  console.log("The student's grade is" + studentGrades())                    // message and invocation of function
+}  console.log("The student's grade is " + studentGrades())                    // message and invocation of function

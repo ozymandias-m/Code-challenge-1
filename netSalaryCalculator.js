@@ -11,7 +11,7 @@ function netSalary(){                                                           
     } else (salary > 32333);{
         return (24000 * 0.1) + (8332 * 0.25) + ((salary - 32333) * 0.30)          //tax aggregation
     }
-} console.log("Your payee value is"+ netSalary())                                 // calling function
+} console.log("Your payee value is "+ netSalary())                                 // calling function
 
 
 // NHIF Deductions
